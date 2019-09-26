@@ -1,3 +1,7 @@
+## Installation
+
+conda create --name pythonCPU --file package-list.txt
+
 ## Pneumonia Detection from Chest X-Ray Images using Transfer Learning                                             
 
 <pre>
